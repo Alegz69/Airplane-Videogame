@@ -1,7 +1,7 @@
 Proiect - Airplane Videogame
 =================================
 
-Acesta este un proiect simplu de joc în care jucătorul trebuie să evite obiectele care cad și să traga în ele pentru a le distruge. Jocul este scris în limbajul C++ folosind OpenGL și GLUT pentru afișare și interacțiune.
+Acesta este un proiect simplu de joc în care jucătorul trebuie să evite obiectele care cad și să tragă în ele pentru a le distruge. Jocul este scris în limbajul C++ folosind OpenGL și GLUT pentru afișare și interacțiune.
 
 Cum să rulezi jocul:
 ---------------------
